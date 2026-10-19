@@ -17,17 +17,7 @@ I'm continously learning, exploring new technologies, and improving my skill to 
 
              
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Barack-u"><img src="https://github-readme-stats.vercel.app/api?username=Barack-u&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Barack-u's GitHub stats" /></a>
-
-<a href="http://www.github.com/Barack-u"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Barack-u&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Barack-u" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barack-u&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
